@@ -20,12 +20,12 @@
 				value="oracle.jdbc.driver.OracleDriver" />
 			<!-- 数据库url -->
 			<property name="hibernate.connection.url"
-				value="jdbc:oracle:thin:@192.168.50.49:1521:FREEPDB1" />
+				value="jdbc:oracle:thin:@数据库IP地址:端口号:实例名称" />
 			<!-- 数据库连接用户名 -->
 			<property name="hibernate.connection.username"
-				value="sys@localhost:1521/FREEPDB1" />
+				value="你的登录账户" />
 			<!-- 数据库连接密码 -->
-			<property name="hibernate.connection.password" value="Gorky8685!" />
+			<property name="hibernate.connection.password" value="你的登录密码" />
 			<!-- 数据库方言 -->
 			<property name="hibernate.dialect"
 				value="org.hibernate.spatial.dialect.oracle.OracleSpatial10gDialect" />
