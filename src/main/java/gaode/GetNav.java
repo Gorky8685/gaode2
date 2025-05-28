@@ -182,7 +182,7 @@ private java.sql.Timestamp insert_time;
 	public String getHttpReq(Map<String, Object> map) {
 		String url = "https://restapi.amap.com/v3/direction/driving";
 		Map<String, String> params = new HashMap<String, String>();
-		params.put("key", "你的key"); 
+		params.put("key", "9ed346abad59f3f04eec945686d3ac2f");
 		params.put("extensions", "all");
 		params.put("strategy", "10"); //10默认多路径;2单路径,距离最短
 		params.put("origin", (String) map.get("S"));

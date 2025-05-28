@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9883cf3-06d9-463c-b6f7-945017d684a3" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/gaode/SchedulerGetNav.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL部分.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL部分.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gaode/GetNav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gaode/GetNav.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gaode/GetNavNJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gaode/GetNavNJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jp8Tf21UP9vWijJiOhbuR9Zyyz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GetNav.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetNavNJ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scheduler.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SchedulerGetNav.executor&quot;: &quot;Run&quot;,
+    &quot;Database Script.SQL部分.sql.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gaode [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.gaode [install].executor&quot;: &quot;Run&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle.jdbc.driver.OracleDriver&quot;,
+      &quot;mysql&quot;,
+      &quot;oracle&quot;
+    ],
+    &quot;RunConfigurationTargetLRU&quot;: [
+      &quot;693805db-64c0-4c5c-ba4a-1624d5184c49/schema/\&quot;SYSTEM\&quot;&quot;,
+      &quot;693805db-64c0-4c5c-ba4a-1624d5184c49&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program Files\githubcode\gaode2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SQL部分.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/SQL部分.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="693805db-64c0-4c5c-ba4a-1624d5184c49" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9883cf3-06d9-463c-b6f7-945017d684a3" name="Changes" comment="" />
+      <created>1722072667869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722072667869</updated>
+      <workItem from="1722072668960" duration="174000" />
+      <workItem from="1730969516941" duration="3058000" />
+      <workItem from="1730973876934" duration="157000" />
+      <workItem from="1730974047544" duration="3492000" />
+      <workItem from="1730983253629" duration="1076000" />
+      <workItem from="1730984339449" duration="3906000" />
+      <workItem from="1730988383278" duration="659000" />
+      <workItem from="1730989237191" duration="708000" />
+      <workItem from="1730991116659" duration="1075000" />
+      <workItem from="1730992205967" duration="1703000" />
+      <workItem from="1730993938109" duration="172000" />
+      <workItem from="1730995008244" duration="528000" />
+      <workItem from="1730995548696" duration="28866000" />
+      <workItem from="1747895613606" duration="37000" />
+      <workItem from="1747896916140" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ExceptionInInitializerError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
